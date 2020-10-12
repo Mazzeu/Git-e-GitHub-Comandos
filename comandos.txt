@@ -1,0 +1,2 @@
+git help - buscar ajuda
+git init - inicia um repositorio com o git
