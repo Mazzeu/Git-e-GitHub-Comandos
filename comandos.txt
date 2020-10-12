@@ -1,2 +1,8 @@
 git help - buscar ajuda
 git init - inicia um repositorio com o git
+git add - adicionar arquivo no git
+git commit - gerar uma mudança
+git config --global user.name "..." - configurar o nome
+git config --global user.email "..." - configurar um e-mail
+git status - verificar quais arquivos não estão commitados
+git log - comando para verificar os commits realizados
