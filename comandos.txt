@@ -6,3 +6,11 @@ git config --global user.name "..." - configurar o nome
 git config --global user.email "..." - configurar um e-mail
 git status - verificar quais arquivos não estão commitados
 git log - comando para verificar os commits realizados
+
+- criar um repositorio no GitHub e seguir as instruções
+
+git remote -v
+git push -u origin master - criar a master no git
+git push - fazer upload dos arquivos para o diretorio remoto
+
+- criar um arquivo README.md (md = markdown)
